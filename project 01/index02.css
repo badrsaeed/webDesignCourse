@@ -1,0 +1,130 @@
+body{
+	margin-top: 0;
+	padding: 0;
+	background-color: black;
+}
+.mid-content{
+	background-image: url(./images/background-plane.jpg);
+	background-size: 100%;
+	width: 1270px;
+	height: 650px;
+	margin: auto;
+}
+.logo-dell{
+	margin-top: 30px;
+	float: left;
+}
+
+.var-logos{
+	margin-top: 30px;
+	float: right;	
+}
+ .var-logos img{
+ 	margin-left: 20px;
+ }
+ .header{
+ 	height: 100px;
+ }
+.main-text{
+ 	width: 500px;
+ 	margin-top: 50px;
+ }
+.main-text h1{
+ 	color: #3DC6EF;
+ 	font-size: 2.5em;
+ 	font-weight: 100;
+ 	margin-bottom: 20px;
+}
+.main-text p{
+	color: #d1d1d1;
+	line-height: 1.5;
+	font-size: 15px;
+	margin-bottom: 20px;
+}
+.main-text button{
+	background-color: black;
+	border-color: cyan;
+	padding: 15px;
+	color: cyan;
+}
+
+.main-text button:hover{
+	background-color: #3DC6EF;
+	color: black;
+}
+.middle-bar{
+	height: 130px;
+	width: 100%;
+	position: absolute;
+	left: 0;
+	margin-top: 70px;
+}
+.left-rec{
+	width: 21%;
+	height: 100%;
+	background-color: #007db8;
+	float: left;
+}
+.right-rec{
+	width: 69%;
+	height: 100%;
+	background-color: #007db8;
+	float: right;
+}
+.middle-bar-content{
+	list-style: none;
+	padding: 0;
+	margin-top: 30px;
+	position: absolute;
+	left: 22%;
+	height: 100%;
+	width: 69%;
+
+}
+.middle-bar-content img{
+	width: 50%;
+}
+.middle-bar-content li{
+	text-align: center;
+	float: left;
+	width: 110px;
+	text-align: center;
+	margin-right: 20px;
+}
+.middle-bar-content span{
+	color: white;
+	font-size: 0.65em;
+}
+.one-group{
+	float: left;
+	width: 32%;
+	margin-left: 10px;
+}
+.one-Lists{
+	margin: 0 auto;
+	margin-top: 210px;
+}
+.one{
+	color : #ffd220;
+	font-size: 70px;
+	float: left;
+
+}
+.hash{
+	font-size: 30px;
+}
+.one-text{
+	color: #e1e1e1;
+	font-size: 15px;
+	padding-top: 30px;
+}
+.link{
+	font-size: 11px;
+	color: #3dc6ef;
+	text-decoration: none;
+}
+.link:hover{
+	font-size: 11px;
+	color: #3dc6ef;
+	text-decoration: underline;
+}
